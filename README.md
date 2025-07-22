@@ -1,8 +1,7 @@
 
 Release tools for [adiary](https://github.com/nabe-abk/adiary).
 
-----------------------------------------------------------------------
-# [Japanese]
+# ファイルの説明
 
 リリースツールとリリース用EXEファイルです。
 実行時は、親ディレクトリから __tools/checker.pl という風に使用してください。
