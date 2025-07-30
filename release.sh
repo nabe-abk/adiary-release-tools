@@ -103,8 +103,8 @@ echo "\n---Packaging------------------------------------------------------------
 # Windows zip
 #-----------------------------------------------------------
 if [ `which zip` ]; then
-	echo zip -q $RELEASE-win_x64.zip -r $RELEASE/
-	     zip -q $RELEASE-win_x64.zip -r $RELEASE/
+	echo zip -q $RELEASE.win-x64.zip -r $RELEASE/
+	     zip -q $RELEASE.win-x64.zip -r $RELEASE/
 fi
 rm -f $RELEASE/*.exe
 
